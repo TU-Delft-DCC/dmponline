@@ -2,6 +2,11 @@
 
 A Python interface to the DMPonline API.
 
+Installation:
+```shell
+pip install dmponline
+```
+
 Usage example:
 
 ```python
