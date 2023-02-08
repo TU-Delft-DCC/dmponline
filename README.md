@@ -1,6 +1,7 @@
 # DMPonline
 
 A Python interface to the DMPonline API.
+For API documentation, see [https://github.com/DMPRoadmap/roadmap/wiki/API-documentation](https://github.com/DMPRoadmap/roadmap/wiki/API-documentation).
 
 Installation:
 ```shell
